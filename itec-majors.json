@@ -1,0 +1,225 @@
+{
+    "majors": [
+        {
+            "name": "Computer Science",
+            "concentrations": [
+                {
+                    "name": "Computer Science",
+                    "courses": [
+                        {
+                            "code": "ITEC 370",
+                            "name": "Software Engineering I",
+                            "description": "Introduction to the principles of software engineering and the design and implementation strategies appropriate for large software projects. Includes project planning, specifications of project requirements, architectural design, verification and validation techniques and software maintenance."
+                        },
+                        {
+                            "code": "ITEC 371",
+                            "name": "Operating Systems I",
+                            "description": "Principles of operating systems including interaction between operating systems and architecture of computer systems with emphasis on resource management."
+                        },
+                        {
+                            "code": "ITEC 360",
+                            "name": "Data Structures and Analysis of Algorithms",
+                            "description": "Includes data structures, concepts and algorithms used in the solution of nonnumeric problems; applications to data management systems, file organization, information retrieval, list processing and programming languages."
+                        }
+                    ]
+                },
+                {
+                    "name": "Database",
+                    "courses": [
+                        {
+                            "code": "ITEC 340",
+                            "name": "Database I",
+                            "description": "A breadth first introduction to database systems including the relational model, SQL, security, database design, and stored procedures."
+                        },
+                        {
+                            "code": "ITEC 441",
+                            "name": "Database II",
+                            "description": "A continuation of the introductory database course covering techniques used to model and manipulate large data sets.  Course provides more in-depth coverage of triggers, assertions, PL/SQL, logical design, and normalization.  Course introduces physical design of the database management system."
+                        },
+                        {
+                            "code": "ITEC 442",
+                            "name": "Data Warehousing, Data Mining, and Reporting",
+                            "description": "A continuation of principles of database systems covering techniques for modeling, managing, and analyzing large data sets. This course lays the foundation for business intelligence by providing in-depth coverage of data warehousing, data mining, and reporting."
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Networks",
+                    "courses": [
+                        {
+                            "code": "ITEC 350",
+                            "name": "Introduction to Computer Networking",
+                            "description": "This course covers networking concepts including the ISO reference model, TCP/IP protocol, and various network classifications as well as hands-on experience."
+                        },
+                        {
+                            "code": "ITEC 451",
+                            "name": "Network Design and Analysis",
+                            "description": "Covers network design and analysis concepts and tools including optimization and traffic engineering."
+                        },
+                        {
+                            "code": "ITEC 452",
+                            "name": "Distributed Computing",
+                            "description": "Covers analysis and design of distributed systems."
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Software Engineering",
+                    "courses": [
+                        {
+                            "code": "ITEC 471",
+                            "name": "Software Engineering II",
+                            "description": "A continuation of principles of software engineering and the design and implementation strategies appropriate for large software projects. Includes the use of CASE tools, extreme programming methods, software metrics, verification, validation, quality assurance, and a further exploration of the principles of human-computer interaction."
+                        },
+                        {
+                            "code": "ITEC 472",
+                            "name": "Software Engineering III",
+                            "description": "A continuation of principles of software engineering and the design and implementation strategies appropriate for large software projects. This course is intended to provide a large-system capstone experience."
+                        },
+                        {
+                            "code": "ITEC 380",
+                            "name": "Organization of Programming Languages",
+                            "description": "ITEC380 is an introduction to programming languages. Students will write programs in several paradigms (including functional (Lisp) and declarative (Prolog)), while learning of issues involved with using and implementing a variety of languages and language features."
+                        }
+                    ]
+
+                }
+            ]
+        },
+        {
+            "name": "Information Science", 
+            "concentrations": [
+                {
+                    "name": "Decision Science",
+                    "courses": [
+                        {
+                            "code": "ITEC 375",
+                            "name": "Data Science",
+                            "description": "ITEC 375 will serve as an introduction to the scientific processes of transforming data sets into actionable insight"
+                        },
+                        {
+                            "code": "ITEC 485",
+                            "name": "Decision Support Systems",
+                            "description": "ITEC 485 will cover data and modeling solutions to semi-structured business problems including expert systems, executive information systems, on-line analytical processing, natural language interfaces, and ad-hoc query and reporting tools."
+                        },
+                        {
+                            "code": "ITEC 466",
+                            "name": "Information Assurnce Management",
+                            "description": "ITEC 466 covers principles, policies, procedures and management in security. It includes information assurance governance, risk, compliance, planning and procedures."
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Healthcare Information Systems",
+                    "courses": [
+                        {
+                            "code": "ITEC 200",
+                            "name": "Healthcare Information Systems",
+                            "description": "ITEC 200 will cover the role of information systems in management and administration in the healthcare industry."
+                        },
+                        {
+                            "code": "ITEC 496",
+                            "name": "ERP Systems for Healthcare",
+                            "description": "ITEC 496 is taught as a workshop utilizing industry software. The students will gain hands on experience using the management and maintenance of healthcare information systems."
+                        },
+                        {
+                            "code": "ITEC 395",
+                            "name": "IT Project Management",
+                            "description": "ITEC 395 equips students with the necessary skill set to complete the project management process from conception to closing."
+                        }
+                    ]
+                },
+                {
+                    "name": "Information Systems",
+                    "courses": [
+                        {
+                            "code": "ITEC 495",
+                            "name": "Information Systems Capstone",
+                            "description": "Advanced topics in information systems that build on previous courses in software engineering, web programming, databases and business.  This course is intended to provide a large information system capstone experience."
+                        },
+                        {
+                            "code": "ITEC 490",
+                            "name": "IT Professionalism",
+                            "description": "A seminar series designed to aid in the transition from the university to the workplace. Includes topics in resume preparation, research, ethics, and oral and written communication."
+                        },
+                        {
+                            "code": "ITEC 281",
+                            "name": "Data Management and Analysis with Spreadsheets",
+                            "description": "A study of basic and advanced techniques for data analysis and management using electronic spreadsheets.   Coverage includes the study of features for gathering, managing, manipulating, and filtering data sets including multidimensional data.  Techniques for collaborative use of a spreadsheet are covered including multi-user access, formula protection, and security.  Advanced analysis coverage includes built-in and user defined functions, goal seeking, sensitivity analysis, scenario management, and data visualization."
+                        }
+                    ]
+
+                },
+                {
+                    "name": "Information Systems Security",
+                    "courses": [
+                        {
+                            "code": "ITEC 445",
+                            "name": "Computer System and Database Security",
+                            "description": "ITEC 445 will cover threats and vulnerabilities in software systems, principles to design and implement secure software systems, database and information security."
+                        },
+                        {
+                            "code": "ITEC 455",
+                            "name": "Applied Cryptography and Network Security",
+                            "description": "ITEC 455 will cover threats and vulnerabilities in computer networks, cryptography and its application to network security mechanisms, secure network protocols and network intrusion detection systems."
+                        },
+                        {
+                            "code": "ITEC 485",
+                            "name": "Decision Support Systems",
+                            "description": "ITEC 485 will cover data and modeling solutions to semi-structured business problems including expert systems, executive information systems, on-line analytical processing, natural language interfaces, and ad-hoc query and reporting tools."
+                        }
+                    ]
+                },
+                {
+                    "name": "Web Development",
+                    "courses": [
+                        {
+                            "code": "ITEC 225",
+                            "name": "Web Programming I",
+                            "description": "An introduction to web programming for those students that already understand programming fundamentals.  Includes an introduction to a variety of web based programming languages as well as an introduction to operating system environments that support web applications."
+                        },
+                        {
+                            "code": "ITEC 325",
+                            "name": "Web Programming II",
+                            "description": "Continuation of Web Programming I course for tools, methods, and technologies for designing and producing web pages incorporating multimedia content. More basic technologies and tools and methods for designing and managing world wide web programming and development are discussed.  Emphasis is placed on server side scripting applications including 'data-driven' web applications.  Students gain practical experience developing complete “data-driven” web applications using server-side scripts."
+                        },
+                        {
+                            "code": "ITEC 425",
+                            "name": "Advanced Web Development",
+                            "description": "An advanced development class in Web programming for those students that have completed the Web Programming I and II sequence.  Includes the applied study of Web services, asynchronous web programming, web server configuration, web object oriented constructs, and other current topics in Web development."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cyber Security",
+            "concentrations": [
+                {
+                    "name": "Cyber Security",
+                    "courses": [
+                        {
+                            "code": "ITEC 345",
+                            "name": "Introduction to Information Security",
+                            "description": "Covers the fundamentals of information security. Lectures focus on providing a broad overview of principles, policies and procedures in security."
+                        },
+                        {
+                            "code": "ITEC 465",
+                            "name": "Computer System Security Analysis and Investigation Techniques",
+                            "description": "Students will learn ethical hacking, conduct formal security analysis of computing infrastructure; apply investigation techniques to detect vulnerabilities and threats in software and hardware including reverse engineering program binaries for malware analysis, memory and disk analysis; systems analysis of embedded devices."
+                        },
+                        {
+                            "code": "ITEC 475",
+                            "name": "Security and Privacy of Cyber Physical Systems",
+                            "description": "An introduction to Cyber-Physical Systems focused on the threats, vulnerabilities, and other challenges facing these systems and how those threats impact the capability, adaptability, scalability, resiliency, safety, security, and usability of those systems."
+                        }
+                    ]
+
+                }
+            ]
+        }
+    ]
+}
